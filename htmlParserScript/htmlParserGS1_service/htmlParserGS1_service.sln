@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "htmlParserGS1_service", "htmlParserGS1_service\htmlParserGS1_service.csproj", "{02ADFDCB-45B4-4F11-8B02-98E2F72D3EC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02ADFDCB-45B4-4F11-8B02-98E2F72D3EC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02ADFDCB-45B4-4F11-8B02-98E2F72D3EC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02ADFDCB-45B4-4F11-8B02-98E2F72D3EC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02ADFDCB-45B4-4F11-8B02-98E2F72D3EC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA1AD328-FFC6-4056-A2BD-66E5071F5A0E}
+	EndGlobalSection
+EndGlobal

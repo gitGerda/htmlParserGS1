@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "A:\\WORK\\PROJECTS\\htmlParserScript\\htmlParser\\htmlParser\\htmlParser.csproj": {}
+  },
+  "projects": {
+    "A:\\WORK\\PROJECTS\\htmlParserScript\\htmlParser\\htmlParser\\htmlParser.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "A:\\WORK\\PROJECTS\\htmlParserScript\\htmlParser\\htmlParser\\htmlParser.csproj",
+        "projectName": "htmlParser",
+        "projectPath": "A:\\WORK\\PROJECTS\\htmlParserScript\\htmlParser\\htmlParser\\htmlParser.csproj",
+        "packagesPath": "C:\\Users\\gordeevsv\\.nuget\\packages\\",
+        "outputPath": "A:\\WORK\\PROJECTS\\htmlParserScript\\htmlParser\\htmlParser\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gordeevsv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AngleSharp": {
+              "target": "Package",
+              "version": "[0.16.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.21, 3.1.21]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

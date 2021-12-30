@@ -1,0 +1,1 @@
+start "" "A:\WORK\PROJECTS\htmlParserScript\htmlParser\htmlParser\bin\Release\netcoreapp3.1\htmlParser.exe" --host https://webhook.site/6614269a-329e-475e-943a-78ab2baf3850 --pwd 0KHQuNC90YXRgNC+0L3QuNC30LDRhtC40Y86YWRtaW4wMDA= --dir C:\GS1\

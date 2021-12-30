@@ -1,0 +1,16 @@
+A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\bin\Release\htmlParserGS1_service.exe.config
+A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\bin\Release\htmlParserGS1_service.exe
+A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\bin\Release\htmlParserGS1_service.pdb
+A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\bin\Release\AngleSharp.dll
+A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\bin\Release\System.Buffers.dll
+A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\bin\Release\System.Text.Encoding.CodePages.dll
+A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\bin\Release\AngleSharp.xml
+A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\bin\Release\System.Buffers.xml
+A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\bin\Release\System.Text.Encoding.CodePages.xml
+A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\obj\Release\htmlParserGS1_service.csproj.AssemblyReference.cache
+A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\obj\Release\htmlParserGS1_service.csproj.CoreCompileInputs.cache
+A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\obj\Release\htmlParserGS1_service.csproj.CopyComplete
+A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\obj\Release\htmlParserGS1_service.exe
+A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\obj\Release\htmlParserGS1_service.pdb

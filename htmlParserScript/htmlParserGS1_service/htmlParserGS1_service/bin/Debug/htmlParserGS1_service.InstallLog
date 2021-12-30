@@ -1,0 +1,60 @@
+﻿Выполняется установка сборки 'A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\bin\Debug\htmlParserGS1_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\bin\Debug\htmlParserGS1_service.exe
+   logfile = A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\bin\Debug\htmlParserGS1_service.InstallLog
+Устанавливается служба Service1...
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется откат для сборки 'A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\bin\Debug\htmlParserGS1_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\bin\Debug\htmlParserGS1_service.exe
+   logfile = A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\bin\Debug\htmlParserGS1_service.InstallLog
+Восстанавливается исходное состояние журнала событий для источника Service1.
+Выполняется установка сборки 'A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\bin\Debug\htmlParserGS1_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\bin\Debug\htmlParserGS1_service.exe
+   logfile = A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\bin\Debug\htmlParserGS1_service.InstallLog
+Устанавливается служба Service1...
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется откат для сборки 'A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\bin\Debug\htmlParserGS1_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\bin\Debug\htmlParserGS1_service.exe
+   logfile = A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\bin\Debug\htmlParserGS1_service.InstallLog
+Восстанавливается исходное состояние журнала событий для источника Service1.
+Выполняется установка сборки 'A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\bin\Debug\htmlParserGS1_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\bin\Debug\htmlParserGS1_service.exe
+   logfile = A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\bin\Debug\htmlParserGS1_service.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\bin\Debug\htmlParserGS1_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\bin\Debug\htmlParserGS1_service.exe
+   logfile = A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\bin\Debug\htmlParserGS1_service.InstallLog
+Выполняется удаление сборки 'A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\bin\Debug\htmlParserGS1_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\bin\Debug\htmlParserGS1_service.exe
+   logfile = A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\bin\Debug\htmlParserGS1_service.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Выполняется установка сборки 'A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\bin\Debug\htmlParserGS1_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\bin\Debug\htmlParserGS1_service.exe
+   logfile = A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\bin\Debug\htmlParserGS1_service.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\bin\Debug\htmlParserGS1_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\bin\Debug\htmlParserGS1_service.exe
+   logfile = A:\WORK\PROJECTS\htmlParserScript\htmlParserGS1_service\htmlParserGS1_service\bin\Debug\htmlParserGS1_service.InstallLog

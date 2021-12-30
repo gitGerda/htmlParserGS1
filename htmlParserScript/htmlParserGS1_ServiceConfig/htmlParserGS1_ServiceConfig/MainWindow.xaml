@@ -1,0 +1,94 @@
+﻿<Window x:Class="htmlParserGS1_ServiceConfig.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:htmlParserGS1_ServiceConfig"
+        mc:Ignorable="d"
+        Title="htmlParserGS1_ServiceConfig" Height="585" Width="498" ResizeMode="CanMinimize" Icon="/8_122645.ico" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black"/>
+                <GradientStop Color="#FFE68989" Offset="1"/>
+                <GradientStop Color="#FF070404" Offset="0.032"/>
+                <GradientStop Color="#FF4B685A" Offset="0.032"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="46"></ColumnDefinition>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="46"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="71"></RowDefinition>
+            <RowDefinition Height="10"></RowDefinition>
+            <RowDefinition ></RowDefinition>
+            <RowDefinition Height="89.04"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Column="0" Grid.ColumnSpan="3" Grid.Row="0" Background="#FF504153">
+            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontFamily="Tahoma" FontSize="40" Foreground="White" Text="CONFIGURATION LIST" IsEnabled="False"/>
+        </Grid>
+
+        <Grid Grid.Column="1" Grid.Row="2" Grid.RowSpan="2">
+
+            <StackPanel>
+                <Expander Header="Server address"  Foreground="White" FontFamily="Tahoma" FontSize="20" Background="Transparent" IsExpanded="True">
+                    <Grid Background="#FFE5E5E5" Height="121">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="53*"></ColumnDefinition>
+                            <ColumnDefinition Width="25*"></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <RichTextBox x:Name="richTbServAddr" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" VerticalScrollBarVisibility="Auto" FontSize="15" BorderThickness="0,0,0,0">
+                            <FlowDocument>
+                                <Paragraph>
+                                    <Run Text=""/>
+                                </Paragraph>
+                            </FlowDocument>
+                        </RichTextBox>
+                        <Button x:Name="btnServAddrSave" Content="Save" Grid.Column="1" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" Width="104" Height="30" Background="#FF77D884"/>
+                        <Button x:Name="btnServAddrReset" Content="Reset" Grid.Column="1" HorizontalAlignment="Center" Margin="0,45,0,0" VerticalAlignment="Top" Width="104" Height="30" Background="#FFE29793"/>
+                    </Grid>
+                </Expander>
+                <Expander Header="Authorization"  Foreground="White" FontFamily="Tahoma" FontSize="20" Background="Transparent" BorderThickness="0,0,0,0" SnapsToDevicePixels="False">
+                    <Grid Background="#FFE5E5E5" Height="124">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="53*"></ColumnDefinition>
+                            <ColumnDefinition Width="25*"></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <RichTextBox x:Name="richTbAuth" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" VerticalScrollBarVisibility="Auto" FontSize="15" BorderThickness="0,0,0,0">
+                            <FlowDocument>
+                                <Paragraph>
+                                    <Run Text=""/>
+                                </Paragraph>
+                            </FlowDocument>
+                        </RichTextBox>
+                        <Button x:Name="btnAuthSave" Content="Save" Grid.Column="1" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" Width="104" Height="30" Background="#FF77D884"/>
+                        <Button x:Name="btnAuthReset" Content="Reset" Grid.Column="1" HorizontalAlignment="Center" Margin="0,45,0,0" VerticalAlignment="Top" Width="104" Height="30" Background="#FFE29793"/>
+                    </Grid>
+                </Expander>
+                <Expander Header="Directory"  Foreground="White" FontFamily="Tahoma" FontSize="20" Background="Transparent">
+                    <Grid Background="#FFE5E5E5" Height="124">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="53*"></ColumnDefinition>
+                            <ColumnDefinition Width="25*"></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <RichTextBox x:Name="richTbDir" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" VerticalScrollBarVisibility="Auto" FontSize="15" BorderThickness="0,0,0,0" SnapsToDevicePixels="True">
+                            <FlowDocument>
+                                <Paragraph>
+                                    <Run Text=""/>
+                                </Paragraph>
+                            </FlowDocument>
+                        </RichTextBox>
+                        <Button x:Name="btnDirSave" Content="Save" Grid.Column="1" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" Width="104" Height="30" Background="#FF77D884"/>
+                        <Button x:Name="btnDirReset" Content="Reset" Grid.Column="1" HorizontalAlignment="Center" Margin="0,45,0,0" VerticalAlignment="Top" Width="104" Height="30" Background="#FFE29793"/>
+                    </Grid>
+                </Expander>
+            </StackPanel>
+
+        </Grid>
+
+    </Grid>
+</Window>

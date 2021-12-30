@@ -1,0 +1,7 @@
+A:\WORK\PROJECTS\htmlParserScript\TestService\TestService\bin\Debug\TestService.exe.config
+A:\WORK\PROJECTS\htmlParserScript\TestService\TestService\bin\Debug\TestService.exe
+A:\WORK\PROJECTS\htmlParserScript\TestService\TestService\bin\Debug\TestService.pdb
+A:\WORK\PROJECTS\htmlParserScript\TestService\TestService\obj\Debug\TestService.csproj.AssemblyReference.cache
+A:\WORK\PROJECTS\htmlParserScript\TestService\TestService\obj\Debug\TestService.csproj.CoreCompileInputs.cache
+A:\WORK\PROJECTS\htmlParserScript\TestService\TestService\obj\Debug\TestService.exe
+A:\WORK\PROJECTS\htmlParserScript\TestService\TestService\obj\Debug\TestService.pdb

@@ -1,0 +1,63 @@
+﻿Выполняется установка сборки 'A:\WORK\PROJECTS\htmlParserScript\TestService\TestService\bin\Debug\TestService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = A:\WORK\PROJECTS\htmlParserScript\TestService\TestService\bin\Debug\TestService.exe
+   logfile = A:\WORK\PROJECTS\htmlParserScript\TestService\TestService\bin\Debug\TestService.InstallLog
+Устанавливается служба TestService1...
+Служба TestService1 успешно установлена.
+Создается исходный EventLog TestService1 в журнале Application...
+Выполняется фиксация сборки 'A:\WORK\PROJECTS\htmlParserScript\TestService\TestService\bin\Debug\TestService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = A:\WORK\PROJECTS\htmlParserScript\TestService\TestService\bin\Debug\TestService.exe
+   logfile = A:\WORK\PROJECTS\htmlParserScript\TestService\TestService\bin\Debug\TestService.InstallLog
+Выполняется удаление сборки 'A:\WORK\PROJECTS\htmlParserScript\TestService\TestService\bin\Debug\TestService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = A:\WORK\PROJECTS\htmlParserScript\TestService\TestService\bin\Debug\TestService.exe
+   logfile = A:\WORK\PROJECTS\htmlParserScript\TestService\TestService\bin\Debug\TestService.InstallLog
+Выполняется удаление источника EventLog TestService1.
+Выполняется удаление службы TestService1 из системы...
+Служба TestService1 успешно удалена из системы.
+Выполняется установка сборки 'A:\WORK\PROJECTS\htmlParserScript\TestService\TestService\bin\Debug\TestService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = A:\WORK\PROJECTS\htmlParserScript\TestService\TestService\bin\Debug\TestService.exe
+   logfile = A:\WORK\PROJECTS\htmlParserScript\TestService\TestService\bin\Debug\TestService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'A:\WORK\PROJECTS\htmlParserScript\TestService\TestService\bin\Debug\TestService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = A:\WORK\PROJECTS\htmlParserScript\TestService\TestService\bin\Debug\TestService.exe
+   logfile = A:\WORK\PROJECTS\htmlParserScript\TestService\TestService\bin\Debug\TestService.InstallLog
+Выполняется удаление сборки 'A:\WORK\PROJECTS\htmlParserScript\TestService\TestService\bin\Debug\TestService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = A:\WORK\PROJECTS\htmlParserScript\TestService\TestService\bin\Debug\TestService.exe
+   logfile = A:\WORK\PROJECTS\htmlParserScript\TestService\TestService\bin\Debug\TestService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Выполняется установка сборки 'A:\WORK\PROJECTS\htmlParserScript\TestService\TestService\bin\Debug\TestService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = A:\WORK\PROJECTS\htmlParserScript\TestService\TestService\bin\Debug\TestService.exe
+   logfile = A:\WORK\PROJECTS\htmlParserScript\TestService\TestService\bin\Debug\TestService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'A:\WORK\PROJECTS\htmlParserScript\TestService\TestService\bin\Debug\TestService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = A:\WORK\PROJECTS\htmlParserScript\TestService\TestService\bin\Debug\TestService.exe
+   logfile = A:\WORK\PROJECTS\htmlParserScript\TestService\TestService\bin\Debug\TestService.InstallLog
+Выполняется удаление сборки 'A:\WORK\PROJECTS\htmlParserScript\TestService\TestService\bin\Debug\TestService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = A:\WORK\PROJECTS\htmlParserScript\TestService\TestService\bin\Debug\TestService.exe
+   logfile = A:\WORK\PROJECTS\htmlParserScript\TestService\TestService\bin\Debug\TestService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
